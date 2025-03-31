@@ -105,7 +105,7 @@ nav ul li a:hover {
     line-height: 1.75rem;
     font-weight: 600;
     text-align: center;
-    color: goldenrod;
+    color: midnightblue;
   }
   
   .input-container {
@@ -146,7 +146,7 @@ nav ul li a:hover {
   }
   
   .signup-link {
-    color: royalblue;
+    color: midnightblue;
     font-size: 0.875rem;
     line-height: 1.25rem;
     text-align: center;
@@ -154,7 +154,7 @@ nav ul li a:hover {
   
   .signup-link a {
     text-decoration: underline;
-    color: goldenrod;
+    color: #753fdb;
   }
 
   /* Estilo geral do footer */
